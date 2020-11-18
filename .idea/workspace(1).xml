@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70cbc7b6-479a-4642-8d06-38e6edaf72c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="JupyterTrust" id="b7c4b8be-cdaf-4bd0-820c-3d3767fd7fb9" />
+  <component name="ProjectId" id="1dkUly8Bhc1K8c6cW0fOolUnTUD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\heali\Desktop" />
+      <recent name="C:\Users\heali\Desktop\实习\Visualization\visual\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\heali\Desktop\实习\Visualization\visual\static\js\yjs_line" />
+      <recent name="C:\Users\heali\Desktop\实习\Visualization\visual\templates" />
+      <recent name="C:\Users\heali\Desktop\实习\Visualization\visual\static" />
+      <recent name="C:\Users\heali\Desktop\实习\Visualization\visual\static\DATA" />
+      <recent name="C:\Users\heali\Desktop\实习\Visualization\visual\static\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Visualization" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Visualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Visualization.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\heali\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70cbc7b6-479a-4642-8d06-38e6edaf72c4" name="Default Changelist" comment="" />
+      <created>1592968739804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592968739804</updated>
+      <workItem from="1592968741137" duration="14998000" />
+      <workItem from="1593408485226" duration="8449000" />
+      <workItem from="1593479178240" duration="14971000" />
+      <workItem from="1593509532955" duration="1772000" />
+      <workItem from="1593568637115" duration="13210000" />
+      <workItem from="1593651929727" duration="16910000" />
+      <workItem from="1593739077996" duration="18644000" />
+      <workItem from="1593765267009" duration="1722000" />
+      <workItem from="1594005305929" duration="7393000" />
+      <workItem from="1594084391715" duration="10684000" />
+      <workItem from="1594110299719" duration="3503000" />
+      <workItem from="1594170453607" duration="4541000" />
+      <workItem from="1594175682573" duration="14915000" />
+      <workItem from="1594196401096" duration="3232000" />
+      <workItem from="1594258504234" duration="13551000" />
+      <workItem from="1594343076606" duration="30000" />
+      <workItem from="1594347012841" duration="1674000" />
+      <workItem from="1594605139126" duration="11975000" />
+      <workItem from="1594689055789" duration="10164000" />
+      <workItem from="1594776382166" duration="3168000" />
+      <workItem from="1594799920030" duration="3908000" />
+      <workItem from="1594861958602" duration="17754000" />
+      <workItem from="1595216377167" duration="3659000" />
+      <workItem from="1597911850683" duration="1717000" />
+      <workItem from="1597972904754" duration="3228000" />
+      <workItem from="1597976871011" duration="1972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="207" y="137" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595297231250">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="207" y="137" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.963@0.0.1504.963" timestamp="1595297231250" />
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1594171646173">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1594171646173" />
+    <state width="1326" height="68" key="GridCell.Tab.0.bottom" timestamp="1597976723201">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="68" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1597976723201" />
+    <state width="1326" height="68" key="GridCell.Tab.0.center" timestamp="1597976723201">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="68" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1597976723201" />
+    <state width="1326" height="68" key="GridCell.Tab.0.left" timestamp="1597976723201">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="68" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1597976723201" />
+    <state width="1326" height="68" key="GridCell.Tab.0.right" timestamp="1597976723201">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="68" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1597976723201" />
+    <state width="1326" height="281" key="GridCell.Tab.1.bottom" timestamp="1594359730547">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="281" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1594359730547" />
+    <state width="1326" height="281" key="GridCell.Tab.1.center" timestamp="1594359730547">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="281" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1594359730547" />
+    <state width="1326" height="281" key="GridCell.Tab.1.left" timestamp="1594359730547">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="281" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1594359730547" />
+    <state width="1326" height="281" key="GridCell.Tab.1.right" timestamp="1594359730547">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="281" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1594359730547" />
+    <state x="254" y="126" key="SettingsEditor" timestamp="1595297368115">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="254" y="126" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1595297368115" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1593673860032">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1593673860032" />
+  </component>
+</project>
